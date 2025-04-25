@@ -54,8 +54,6 @@ export default function SignIn() {
           disabled={loading}
         >
           {loading ? "Loading..." : "Sign In"}
-          {/* Sign In */}
-          {/* Sign In */}
         </button>
       </form>
       <p className="mt-4 text-sm text-center text-[#737373]">
