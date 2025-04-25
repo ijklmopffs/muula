@@ -1,0 +1,14 @@
+@import "tailwindcss";
+#root {
+  text-align: center;
+  width: 100%;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+button {
+  cursor: pointer;
+}
